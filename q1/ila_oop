@@ -1,0 +1,22 @@
+# ILA 3-1: Applying the Four Pillars of OOP
+
+## Sari-Sari Store Inventory System
+
+### 1. Encapsulation
+Encapsulation wraps variables and functions in a single unit, protecting them from unauthorized or unexpected changes. 
+In a sari-sari store inventory, prices and stock can be set to private so they cant be changed by mistake
+
+### 2. Abstraction
+Absraction is hiding complex background details and only keeping essential information. 
+In a sari-sari store inventory system, an average chasier dosent need to know the code behind reorders or restocks, but only needs to press the checkout button while the system does the complex math.
+
+### 3. Inheritance
+Inheritanceallows a new class to inherit the properties and behaviors of an existing class to reuse code. 
+Instead of writing new code for every single item in the sari-sari store, the owner could build a base class (e,g. SoftdrinksItem class).
+
+### 4. Polymorphism
+Polymorphism allows to write code that can be used in different ways depending on the object that interacts with it. In sari-sari stores, this could be particularly useful in processing different payment methods (e,g. Gcash, cash).
+
+## Reflection
+I believe that abstraction is the most important consideration when integrating a sari-sari store system, due to the fact that many average people benefit from sari-sari stores daily, such as chasiers and consumers, they dont need to know the complex details of the inventory system for smooth transaction. 
+Programming should make lives simpler, abstraction helps avoids overcomplication.
