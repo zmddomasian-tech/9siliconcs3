@@ -6,8 +6,8 @@ zmddomasian@brc.pshs.edu.ph
 
 # Computer Science 3 Portfolio
 ## Student Information
-## Name: Juan Dela Cruz
-## Section: Magnesium
+## Name: Zoe Maxene Domasian
+## Section: Silicon
 ## School Year: 2026-2027
 
 # Quarter 1
