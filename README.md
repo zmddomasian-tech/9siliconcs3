@@ -13,6 +13,6 @@ zmddomasian@brc.pshs.edu.ph
 # Quarter 1
 ## Activities
 ### Computational Thinking Skills
-[View my Computational Thinking Exercise](q1/ctskillsSiliconDomasian.md)
+[View my Computational Thinking Exercise](q1/ctskillsSiliconDomasianLN.md)
 ### Chinese Zodiac
 [View my Chinese Zodiac](q1/zodiacSiliconDomasianLN.md)
