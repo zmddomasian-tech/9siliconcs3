@@ -1,0 +1,42 @@
+# Computational Thinking Exercise
+## [Smart School Canteen Queue OR Smart Vending Machine]
+## Name: Zoe Maxene Domasian
+## Section: 9 - Silicon
+## Last Name: Domasian
+## Date: 8/20/26
+
+## Step 1: Identify the Big Problem
+### Main Problem
+
+The newly installed vending machine is ineffecient and executes transactions incorrectly because of several systematic issues.
+
+## Step 2: Identify the Sub-Problems
+1. Students may have trouble selecting the item they wish to purchase.
+2. The vending machine runs out of items often because it does not notify when it is low on stock.
+3. The vending machines calculate incorrect change.
+4. The vending machine has a long and ineffecient algorithm.
+
+## Step 3: Apply Computational Thinking Skills
+| Sub-Problem | CT Skill | Proposed Solution |
+| Trouble selecting the item they wish to purchase.|Abstraction| Simplify buttons and put clear labels on items |
+| Low Stock |Decomposition | Notify when the machine is low stock |
+| The vending machines calculate incorrect change. | Algorithmic Design | Brief proposed solution |
+| The vending machine has a long and ineffecient algorithm | Pattern recognition | Replace with a simpler and shorter algorithm for more smoother use |
+---
+## Step 4: Algorithmic Solution
+### Selected Sub-Problem
+The vending machines calculate incorrect change.
+
+### Pseudocode
+START
+
+Display available items
+Ask user for selections
+Compute total price
+Display total price
+Calculate change based on user input using a formula
+Output change
+Thank user
+
+END
+---
