@@ -19,6 +19,7 @@ Changes from my previous design:
 
 
 ##Updated Class Diagram:
+
 ![Class Diagram](classDiagramSG5.png)
 
 
@@ -29,6 +30,7 @@ Changes from my previous design:
 [Test run](testrun.png)
 
 ##Object Diagram
+
 ![Object diagram](objectdiagram.png)
 
 ##Analysis
