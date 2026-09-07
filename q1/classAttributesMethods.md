@@ -4,8 +4,8 @@ Changes from my previous design:
 - minutes changed to duration in seconds
 
 
-| Attribute |  Data Type |  Visibility |
-| -------- | -------- | -------- |
+| Attribute |  Data Type |  Visibility |  Why Public/Private?|
+| -------- | -------- | -------- | | -------- |
 | Title           | String    | Public     | People should be able to know the song's title for them to find |
 | Artist          | String    | Public     | People should be able to recognize the song's artist            |
 | Explicit rating | Boolean   | Public     | People should be warned of the song's contents                  |
