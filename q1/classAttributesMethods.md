@@ -19,8 +19,7 @@ Changes from my previous design:
 
 
 ##Updated Class Diagram:
-
-![Class Diagram](images/classDiagramSG5.png)
+![Class Diagram](classDiagramSG5.png)
 
 
 ##Python implementation
