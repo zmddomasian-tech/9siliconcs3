@@ -3,15 +3,15 @@ Changes from my previous design:
 - added a UID property as a private attribute
 - minutes changed to duration in seconds
 
-+------------------------------------------------------------------------------------------------------------+
+
 | Attribute       | Data Type | Visibility | Why Public/Private?                                             |
-+------------------------------------------------------------------------------------------------------------+
+
 | Title           | String    | Public     | People should be able to know the song's title for them to find |
 | Artist          | String    | Public     | People should be able to recognize the song's artist            |
 | Explicit rating | Boolean   | Public     | People should be warned of the song's contents                  |
 | Duration        | Int       | Public     | To display the duration of the song (in seconds)                |
 | UID             | String    | Private    | The UID must be private for clean dsiplay and prevent tampering |
-+------------------------------------------------------------------------------------------------------------+
+
 
 ##Updated Class Diagram:
 +--------------------------------------------+
