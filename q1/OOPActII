@@ -1,3 +1,3 @@
 ## Design Revision
 Changes from my previous design:
-- added a UID attribute
+- added a UID property as a private attribute
