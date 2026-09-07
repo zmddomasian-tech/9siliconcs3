@@ -26,5 +26,5 @@ Updated Class Diagram:
 | + play()                                   |
 | + playback()                               |
 | + pause()                                  |
-| + pause()                                  |                
+| + repeat()                                 |                
 +--------------------------------------------+
