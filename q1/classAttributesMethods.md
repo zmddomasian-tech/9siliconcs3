@@ -1,3 +1,7 @@
+## Previous Design
+Link to my previous activity:
+[classObjectUML.md](classObjectUML.md)
+
 ## Design Revision
 Changes from my previous design:
 - added a UID property as a private attribute
@@ -13,31 +17,11 @@ Changes from my previous design:
 | UID             | String    | Private    | The UID must be private for clean dsiplay and prevent tampering |
 
 
-+------------------------------------------------------------------------------------------------------------+
-| Attribute       | Data Type | Visibility | Why Public/Private?                                             |
-+------------------------------------------------------------------------------------------------------------+
-| Title           | String    | Public     | People should be able to know the song's title for them to find |
-| Artist          | String    | Public     | People should be able to recognize the song's artist            |
-| Explicit rating | Boolean   | Public     | People should be warned of the song's contents                  |
-| Duration        | Int       | Public     | To display the duration of the song (in seconds)                |
-| UID             | String    | Private    | The UID must be private for clean dsiplay and prevent tampering |
-+------------------------------------------------------------------------------------------------------------+
 
 ##Updated Class Diagram:
-+--------------------------------------------+
-|                    Song                    |
-+--------------------------------------------+
-| + Title           : String                 |
-| + Artist          : String                 |
-| + Explicit rating : Boolean                |
-| + Duration        : Int                    |
-| - UID             : String                 |
-+--------------------------------------------+
-| + play(self)                               |
-| + playback(self, seconds)                  |
-| + pause(self)                              |
-| + repeat(self)                             |                
-+--------------------------------------------+
+
+![Class Diagram](images/classDiagramSG5.png)
+
 
 ##Python implementation
 ![Python source](q1/classimplementation1.py)
