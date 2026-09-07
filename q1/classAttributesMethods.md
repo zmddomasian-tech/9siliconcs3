@@ -33,10 +33,10 @@ Changes from my previous design:
 ![Python source](q1/classimplementation1.py)
 
 ##Test run
-[Test run](q1/testrun.png)
+[Test run](testrun.png)
 
 ##Object Diagram
-[Object diagram]()
+[Object diagram](objectdiagram.png)
 
 ##Analysis
 
