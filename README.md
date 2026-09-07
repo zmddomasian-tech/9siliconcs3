@@ -12,10 +12,10 @@
 ### Activities 
 
 #### - Computational Thinking Skills
-[View my Computational Thinking Exercise](q1/ctskillsSiliconDomasianLN.md)
+[View my Computational Thinking Exercise](q1/ctskillsSiliconDomasianLN)
 #### - Chinese Zodiac
 [View my Chinese Zodiac](q1/zodiacSiliconDomasianLN.md)
 #### - OOP Concept
-[OOP Concept](q1/ila_oop.md)
+[OOP Concept](q1/ila_oop)
 #### - OOPAct
 [OOPAct](q1/classObjectUML)
