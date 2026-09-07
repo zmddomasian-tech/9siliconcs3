@@ -23,8 +23,8 @@ Updated Class Diagram:
 | + Duration        : Int                    |
 | - UID             : String                 |
 +--------------------------------------------+
-| + play()                                   |
-| + playback()                               |
-| + pause()                                  |
-| + repeat()                                 |                
+| + play(self)                               |
+| + playback(self, seconds)                  |
+| + pause(self)                              |
+| + repeat(self)                             |                
 +--------------------------------------------+
