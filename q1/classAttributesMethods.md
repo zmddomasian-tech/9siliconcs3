@@ -29,7 +29,7 @@ Changes from my previous design:
 [Test run](testrun.png)
 
 ##Object Diagram
-[Object diagram](objectdiagram.png)
+![Object diagram](objectdiagram.png)
 
 ##Analysis
 
