@@ -16,24 +16,21 @@ Changes from my previous design:
 | Duration        | Int       | Public     | To display the duration of the song (in seconds)                |
 | UID             | String    | Private    | The UID must be private for clean dsiplay and prevent tampering |
 
-
-
-##Updated Class Diagram:
+###Updated Class Diagram:
 
 ![Class Diagram](classDiagramSG5.png)
 
-
-##Python implementation
+###Python implementation
 ![Python source](q1/classimplementation1.py)
 
-##Test run
+###Test run
 [Test run](testrun.png)
 
-##Object Diagram
+###Object Diagram
 
 ![Object diagram](objectdiagram.png)
 
-##Analysis
+###Analysis
 
 ### Why did you make your chosen attribute private?
 - My chosen orivate attribute was the UID. Users must not see the UID so it would display a clean interface and prevent accidental tampering
