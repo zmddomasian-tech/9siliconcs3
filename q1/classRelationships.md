@@ -28,6 +28,7 @@ Explanation: A playliat can be empty amd hold an infinite amount of songs.
 ### What multiplicity did you choose and why?
  Zero or more, because a playlist should be able to contain an infinite amount of songs or be empty.
 ### How did you implement the relationship in Python?
-  
+  By instantiating a child object outside the parent class and passing it in as an argument. 
 ### Why did you store an object reference instead of copying its data?
-### If your relationship uses many, why is a list appropriate?
+ Object reference is automatically stored when an object is assigned to a variable. When two variables point at the same object, change in 1 variable updates data values for both, this allows code to experience updates without needing to constantly pass data.
+ ### If your relationship uses many, why is a list appropriate?
