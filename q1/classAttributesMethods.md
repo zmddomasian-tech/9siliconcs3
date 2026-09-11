@@ -21,10 +21,10 @@ Changes from my previous design:
 ![Class Diagram](classDiagramSG5.png)
 
 ###Python implementation
-![Python source](q1/classimplementation1.py)
+[Python source](classimplementation1.py)
 
 ###Test run
-[Test run](testrun.png)
+![Test run](testrun.png)
 
 ###Object Diagram
 
