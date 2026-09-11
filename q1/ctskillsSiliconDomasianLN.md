@@ -18,6 +18,7 @@ The newly installed vending machine is ineffecient and executes transactions inc
 
 ## Step 3: Apply Computational Thinking Skills
 | Sub-Problem | CT Skill | Proposed Solution |
+|---|---|---|
 | Trouble selecting the item they wish to purchase.|Abstraction| Simplify buttons and put clear labels on items |
 | Low Stock |Decomposition | Notify when the machine is low stock |
 | The vending machines calculate incorrect change. | Algorithmic Design | Brief proposed solution |
@@ -28,15 +29,21 @@ The newly installed vending machine is ineffecient and executes transactions inc
 The vending machines calculate incorrect change.
 
 ### Pseudocode
-START
+START 
 
-Display available items
-Ask user for selections
-Compute total price
+Display available items 
+
+Ask user for selections 
+
+Compute total price 
+
 Display total price
-Calculate change based on user input using a formula
-Output change
-Thank user
+
+Calculate change based on user input using a formula 
+
+Output change 
+
+Thank user 
 
 END
----
+
