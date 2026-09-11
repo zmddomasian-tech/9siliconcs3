@@ -15,13 +15,13 @@ Explanation: A playlist is a collection of added songs.
 Multiplicity: Zero or more
 Explanation: A playliat can be empty amd hold an infinite amount of songs.
 ## UML Class Relationship Diagram
-![Class Relationship Diagram](images/classRelationshipDiagram.png)
+![Class Relationship Diagram](classRelationshipDiagram.png)
 ## Python Implementation
 [View Python Source](classRelationships.py)
 ## Test Run
-![Relationship Test Run](images/relationshipTestRun.png)
+![Relationship Test Run](relationshipTestRun.png)
 ## Object Relationship Diagram
-![Object Relationship Diagram](images/objectRelationshipDiagram.png)
+![Object Relationship Diagram](objectRelationshipDiagram.png)
 ## Analysis
 ### What is the association between your two classes? 
   The class playlist can contain the class songs.
