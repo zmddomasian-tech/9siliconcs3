@@ -4,14 +4,14 @@
 [classRel](classRelationships.md)
 ## Existing System Description:
 ## Inheritance Relationship
-Parent: Audio
-Child: Song
-Explanation: A song is a type of audio file.
+* Parent: Audio
+* Child: Song
+* Explanation: A song is a type of audio file.
 ## Inheritance UML
 ![Inheritance](images/inheritanceDiagram.png)
 ## Composition/Aggregation
-Relationship:
-Explanation:
+* Relationship:
+* Explanation:
 ## Advanced UML Diagram
 ![Advanced UML](images/advancedClassDiagram.png)
 ## Python Implementation
