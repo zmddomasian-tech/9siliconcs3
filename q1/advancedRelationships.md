@@ -10,8 +10,8 @@
 ## Inheritance UML
 ![Inheritance](images/inheritanceDiagram.png)
 ## Composition/Aggregation
-* Relationship:
-* Explanation:
+* Relationship: Aggregation (HAS-a relationship)
+* Explanation: The playlist class contains songs 
 ## Advanced UML Diagram
 ![Advanced UML](images/advancedClassDiagram.png)
 ## Python Implementation
