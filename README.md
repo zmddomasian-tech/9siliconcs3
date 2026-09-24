@@ -24,4 +24,4 @@
 #### - OOPActIII
 [OOPActIII](q1/classRelationships.md)
 #### - OOPActIV
-[OOPActIII](advancedRelationships.md)
+[OOPActIV](q1/advancedRelationships.md)
