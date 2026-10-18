@@ -4,7 +4,7 @@
 # Computer Science 3 Portfolio
 
 ## Quarter 1 [(View Quarter 1 Folder)](q1)
-### Activities 
+### ACTIVITIES
 
 #### Computational Thinking Skills
 [View my Computational Thinking Exercise](q1/ctskillsSiliconDomasianLN)
@@ -23,7 +23,7 @@
 
 
 ## Quarter 2 [(View Quarter 2 Folder)](q2)
-### Activities 
+### ACTIVITIES 
 
 #### Encapsulation
 [Encapsulation](q2/sg8_encapsulation.py)
