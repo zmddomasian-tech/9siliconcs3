@@ -1,14 +1,9 @@
 
 
-# Zoe Maxene Domasian  
-## Silicon  
-## 2026-2027
-
+# Zoe Maxene Domasian | 9 - Silicon
 # Computer Science 3 Portfolio
 
 ## Quarter 1 [(View Quarter 1 Folder)](q1)
-
-
 ### Activities 
 
 #### Computational Thinking Skills
