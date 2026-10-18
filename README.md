@@ -11,17 +11,21 @@
 
 ### Activities 
 
-#### - Computational Thinking Skills
+#### Computational Thinking Skills
 [View my Computational Thinking Exercise](q1/ctskillsSiliconDomasianLN)
-#### - Chinese Zodiac
+#### Chinese Zodiac
 [View my Chinese Zodiac](q1/zodiacSiliconDomasianLN.md)
-#### - OOP Concept
+#### OOP Concept
 [OOP Concept](q1/ila_oop.md)
-#### - OOPAct
+#### OOPAct
 [OOPAct](q1/classObjectUML.md)
-#### - OOPActII
+#### OOPActII
 [OOPActII](q1/classAttributesMethods.md)
-#### - OOPActIII
+#### OPActIII
 [OOPActIII](q1/classRelationships.md)
-#### - OOPActIV
+#### OOPActIV
 [OOPActIV](q1/advancedRelationships.md)
+#### Encapsulation
+[Encapsulation](q1/advancedRelationships.md)
+
+
