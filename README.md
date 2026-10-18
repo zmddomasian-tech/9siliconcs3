@@ -22,10 +22,10 @@
 [OOPActIV](q1/advancedRelationships.md)
 
 
-## Quarter 2 [(View Quarter 2 Folder)](q1)
+## Quarter 2 [(View Quarter 2 Folder)](q2)
 ### Activities 
 
 #### Encapsulation
-[Encapsulation](q1/advancedRelationships.md)
+[Encapsulation](a1 = (q2/sg8_encapsulation.py)
 
 
