@@ -26,6 +26,6 @@
 ### Activities 
 
 #### Encapsulation
-[Encapsulation](a1 = (q2/sg8_encapsulation.py)
+[Encapsulation](q2/sg8_encapsulation.py)
 
 
