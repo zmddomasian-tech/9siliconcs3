@@ -27,5 +27,7 @@
 
 #### Encapsulation
 [Encapsulation](q2/sg8_encapsulation.py)
+#### Inheritance
+[Inheritance](q2/sg9_inheritance.py)
 
 
