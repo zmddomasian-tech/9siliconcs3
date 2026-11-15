@@ -31,7 +31,8 @@
 [Inheritance](q2/sg9_inheritance.py)
 #### Method Override
 [Method Override](q2/MethodOverride.py)
-
+#### Polymorphism
+[Polymorphism](q2/Polymorphism.py)
 
 
 
