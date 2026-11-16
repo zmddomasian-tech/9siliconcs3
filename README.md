@@ -32,7 +32,7 @@
 #### Method Override
 [Method Override](q2/MethodOverride.py)
 #### Polymorphism
-[Polymorphism](q2/Polymorphism.py)
+[Activity 1](q2/Polymorphism.py)
 
 
 
